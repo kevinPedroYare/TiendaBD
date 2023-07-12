@@ -535,7 +535,7 @@ public class JTableCliente extends javax.swing.JFrame {
                 articulo [0] = rs.getString("Cliente Numero");
                 articulo [1] = rs.getString("Cliente Nombre");
                 articulo [2] = rs.getString("Cliente Direccion");
-                articulo [2] = rs.getBoolean("Cliente Estado");
+                articulo [3] = rs.getBoolean("Cliente Estado");
                 
                 modelo.addRow(articulo);
             }

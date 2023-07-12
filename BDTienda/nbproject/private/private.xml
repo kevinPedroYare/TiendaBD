@@ -3,8 +3,9 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/D:/Java/BDTienda/src/Panel/JTableArticulos.java</file>
-            <file>file:/D:/Java/BDTienda/src/Panel/JTableCliente.java</file>
+            <file>file:/D:/workspace/TiendaBD/BDTienda/src/Panel/JTableCliente.java</file>
+            <file>file:/D:/workspace/TiendaBD/BDTienda/src/Panel/JTableBoleta.java</file>
+            <file>file:/D:/workspace/TiendaBD/BDTienda/src/Panel/JTableArticulos.java</file>
         </group>
     </open-files>
 </project-private>
